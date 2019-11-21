@@ -1,0 +1,34 @@
+.cuadro
+{
+  height: 50px;
+width: 50px;
+border: 10px solid blue;
+display: inline-block;
+margin-left: 28px;
+}
+
+.cuadro1
+{
+  height: 50px;
+width: 50px;
+border: 10px solid blue;
+display: inline-block;
+margin-left: 28px;
+}
+
+.cuadro2
+{
+  height: 50px;
+width: 50px;
+border: 10px solid blue;
+display: inline-block;
+margin-left: 28px;
+}
+
+.alinearBTN
+{
+  margin-top: 20px;
+  margin-right:  60px;
+  margin-left: 640px;
+  margin-bottom: 30px;
+}
